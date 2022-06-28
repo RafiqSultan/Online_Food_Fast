@@ -151,3 +151,22 @@ body {
     color: #333333;
     text-decoration: none;
 }
+
+
+/* Register form */
+
+.register-form {
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.register-form label {
+    font-weight: bold;
+}
+
+.register-form small a {
+    color: #fd6846 !important;
+}

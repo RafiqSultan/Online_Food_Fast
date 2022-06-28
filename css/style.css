@@ -82,6 +82,20 @@ hr {
     border-top: 1px solid #eaebeb;
 }
 
+.btn {
+    background-color: #ca3412;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #fd6846;
+    color: #fff;
+}
+
+textarea {
+    resize: none;
+}
+
 
 /*==================================
 * Bootstrap grid tweaks
